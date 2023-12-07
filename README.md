@@ -3,7 +3,6 @@
 ## Websites
 
 - LinkedIn: https://www.linkedin.com/in/jamesqaq
-- Facebook: https://www.facebook.com/jamesqaq.chen
 - GitHub: https://github.com/JamesQAQ
 - LeetCode: https://leetcode.com/JamesQAQ
 - HackerRank: https://www.hackerrank.com/profile/luniacslime
