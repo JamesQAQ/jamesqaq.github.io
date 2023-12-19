@@ -4,17 +4,17 @@
 
 ### Contact
 
-- LinkedIn: https://www.linkedin.com/in/jamesqaq
-- GitHub: https://github.com/JamesQAQ
+- LinkedIn: [jamesqaq](https://www.linkedin.com/in/jamesqaq)
+- GitHub: [JamesQAQ](https://github.com/JamesQAQ)
 
 ### Coding Practices
 
-- LeetCode: https://leetcode.com/JamesQAQ
-- HackerRank: https://www.hackerrank.com/profile/luniacslime
-- Online Judge: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=69006
-- ZeroJudge: https://zerojudge.tw/UserStatistic?id=9600
+- LeetCode: [JamesQAQ](https://leetcode.com/JamesQAQ)
+- HackerRank: [@luniacslime](https://www.hackerrank.com/profile/luniacslime)
+- Online Judge: [jamesqaq](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=69006)
+- ZeroJudge: [no306100](https://zerojudge.tw/UserStatistic?id=9600)
 
 ### Gameplays
 
-- Youtube: https://www.youtube.com/@kyuqaq
-- SPEEDRUN.COM: https://www.speedrun.com/users/KyuQAQ
+- Youtube: [@kyuqaq](https://www.youtube.com/@kyuqaq)
+- SPEEDRUN.COM: [KyuQAQ](https://www.speedrun.com/users/KyuQAQ)
