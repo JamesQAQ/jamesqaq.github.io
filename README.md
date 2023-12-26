@@ -9,10 +9,10 @@
 
 ### Coding Practices
 
-- LeetCode: [JamesQAQ](https://leetcode.com/JamesQAQ)
-- HackerRank: [@luniacslime](https://www.hackerrank.com/profile/luniacslime)
-- Online Judge: [jamesqaq](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=69006)
-- ZeroJudge: [no306100](https://zerojudge.tw/UserStatistic?id=9600)
+- LeetCode(2016-): [JamesQAQ](https://leetcode.com/JamesQAQ)
+- HackerRank(2016-2017): [@luniacslime](https://www.hackerrank.com/profile/luniacslime)
+- Online Judge(2010-2013): [jamesqaq](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=69006)
+- ZeroJudge(2009-2013): [no306100](https://zerojudge.tw/UserStatistic?id=9600)
 
 ### Gameplays
 
